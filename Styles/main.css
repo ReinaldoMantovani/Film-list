@@ -271,6 +271,11 @@ input {
     margin-left: 0.3rem;
     padding: 0.3rem;
     object-fit: content;
+    
+}
+
+.voted a {
+    font-family: 'Ubuntu Mono',sans-serif;
 }
 
 .baner-single img {
