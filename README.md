@@ -8,7 +8,7 @@
 
 ##### Film-list in desktop
 
-[Desktop image that application](![WhatsApp Image 2022-02-02 at 18 01 08](https://user-images.githubusercontent.com/62466598/152248881-6ddeba68-6944-4653-8630-caf30878ff0d.jpeg))
+[ Film-list in Desktop computer ]![WhatsApp Image 2022-02-02 at 18 01 08](https://user-images.githubusercontent.com/62466598/152248881-6ddeba68-6944-4653-8630-caf30878ff0d.jpeg)
 
 ### Api link.
 
