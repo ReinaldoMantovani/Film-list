@@ -374,7 +374,7 @@ input {
 footer {
     z-index: 200002;
     display: flex;
-    position: absolute;
+    position: fixed;
     width: 100%;
     bottom:0;
     padding: 1rem;
